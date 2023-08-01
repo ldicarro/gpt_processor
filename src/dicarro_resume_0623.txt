@@ -1,0 +1,51 @@
+Louis DiCarro
+Senior Developer | Web Development
+Email: ldicarro@mindspring.com | Phone: (214) 458-1170 | Location: Connecticut, USA
+
+Career Summary:
+With over 20 years of design and development experience, I have proven ability to manage projects from beginning to completion, including pre- and post-production phases. My expertise includes managing and defining roles for team members, assigning tasks, determining milestones, and meeting deadlines. I possess thorough knowledge of Internet technologies, including browser/platform issues and servers, and have an appreciation of corporate goals and vision. I am skilled in training others in both technological and design disciplines.
+
+Technical Skills: 
+Languages: JavaScript, TypeScript, HTML, CSS, SQL, NoSQL, Python, PHP, C#
+Frameworks: React, AngularJS, Sass, Django, .Net, Cordova 
+Tools: Node, Deno, Docker, Kubernetes, Git, Jira, GraphQL, WebPack, Yarn, Linux, Windows, Trello, Visual Studio Code, Adobe Creative Suite
+
+Experience: 
+Senior Software Engineer / NewRocket, Vista, CA / Oct 2021 - Jun 2023
+Develop and design portals for corporate clients on the ServiceNow platform
+Update client’s portal to incorporate new themes and provide technical support to the internal team
+Work with internal team to develop reusable components as a product
+Assist clients in planning and execution of new features for the portal
+
+Senior Web Developer / Device42, West Haven, CT / Mar 2019 - Aug 2021
+Manage and administer WordPress based corporate website working with and directing both internal and external teams
+Update internal web APIs using Python and Django for software delivery
+Incorporate lead generation platforms on site with Hubspot and Salesforce
+Gather and evaluate analytics for sites, lead generation, and other platforms
+Design, implement, and maintain a portal platform for company partners
+
+Senior Developer / This Old House Ventures, Stamford, CT / Nov 2018 - Feb 2019
+Add improvements to website functionality and user experience working with the internal team and vendors
+Prepare feeds for various OTT television vendors as well as content feeds for consumption from companies such as Apple, Roku, and others
+Maintain site’s ad tech and create analytic reports for stats of ad delivery, site usage, and video delivery
+Introduce improvements to user experience to both internal and external CMS
+
+Developer / Label Interactive, Southbury, CT / Nov 2017 - Sep 2018
+Maintain and add features to active mobile app running on both iOS and Android platforms
+Develop the app using AngularJS with the Cordova framework
+Update vendor API platform while working with client’s Java server team to incorporate updates
+Work in both Xcode and Android Studio to publish code
+
+Senior Frontend Developer / Alden Image, Shelton, CT / Mar 2017 - Nov 2017
+Develop Node web application using a custom pattern library based on Kendo UI framework
+Responsible for frontend interface for third-party backend for both on and offline use using HTML, SASS, JQuery, Angular 4, and other JS libraries
+Integrate analytics into the application using Google Tag Manager and displayed cumulative results
+Interpret analytic results to influence design decisions as new sections of the application were planned
+
+Senior Frontend Developer / Colangelo Synergy Marketing, Darien, CT / Sep 2011 - Mar 2017
+Handle development needs of all clients including creating and maintaining sites and servers
+Work with designers to translate static images to full interactive sites using HTML5, CSS, and JavaScript
+Administer server technologies including PHP, LAMP stack, Windows Server, SQL, and cloud servers
+Build consumer-facing sites using C# and .net web forms
+Build mobile based apps using HTML5, CSS, and JavaScript
+Establish standards and processes used throughout the company
